@@ -1,0 +1,5 @@
+outputs/
+data/
+.Rhistory
+.RData
+Rplots.pdf
